@@ -7,7 +7,6 @@ public class Item {
 	double preco;
 	Compra compra;
 	
-	
 	public Item(String nome, int quantidade, double preco) {
 		super();
 		this.nome = nome;

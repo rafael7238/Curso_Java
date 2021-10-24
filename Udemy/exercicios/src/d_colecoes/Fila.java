@@ -19,6 +19,7 @@ public class Fila {
 
 		System.out.println(fila.poll()); // Retorna o primeiro elemento da lista, removendo
 		System.out.println(fila.poll()); // Retorna o primeiro elemento da lista, removendo
+		System.out.println(fila);
 
 	}
 

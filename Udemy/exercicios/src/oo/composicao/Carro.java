@@ -22,5 +22,4 @@ public class Carro {
 	boolean estaLigado() {
 		return motor.ligado;
 	}
-
 }

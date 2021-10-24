@@ -11,6 +11,7 @@ public class AreaCircuferencia {
 		final float PI2 = (float) 3.14159;
 		double area = PI*raio;
 		
+		
 		System.out.println(PI2*raiol);
 		System.out.println(area);
 		System.out.println(5/9);
