@@ -1,6 +1,5 @@
 package e_lambda;
 
-public class Calculo {
-
-
+public interface Calculo {
+	double executar(double a, double b);
 }

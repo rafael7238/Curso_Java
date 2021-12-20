@@ -1,0 +1,18 @@
+Relacionamento 1 para 1
+	CARRO.JAVA
+	MOTO.JAVA
+	MOTOTESTE.JAVA
+	
+Relacionamento 1 para Muitos
+	COMPRA.JAVA
+	ITEM.JAVA
+	COMPRA.TESTE
+	
+	1 Compra tem vários Itens
+	
+Relacionamento Muitos para Muitos
+	Aluno.Java
+	Curso.Java
+	CursoTeste.Java
+	
+	1 aluno pode estar em mais de 1 curso

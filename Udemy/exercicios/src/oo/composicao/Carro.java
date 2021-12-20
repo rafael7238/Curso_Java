@@ -1,7 +1,12 @@
 package oo.composicao;
 
 public class Carro {
-	Motor motor = new Motor();
+	
+	Motor motor;
+	
+	Carro(){
+		this.motor= new Motor(this);
+	}
 
 	void acelerar() {
 		motor.fatorInjecao += 0.4;
